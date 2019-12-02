@@ -1,0 +1,8 @@
+<-- Sample Accounts -->
+<-- Email must be valid and password must be 7 characters-->
+
+email: sho@gmail.com
+password: sho1234
+
+email: shinra@gmail.com
+password: shinra123
